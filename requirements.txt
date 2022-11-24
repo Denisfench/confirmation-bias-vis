@@ -1,0 +1,8 @@
+tweepy
+python-dotenv
+vaderSentiment
+nltk
+matplotlib
+wordcloud
+datetime
+opencv-python
