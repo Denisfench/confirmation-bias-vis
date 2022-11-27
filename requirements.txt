@@ -6,3 +6,4 @@ matplotlib
 wordcloud
 datetime
 opencv-python
+pandas
