@@ -7,3 +7,5 @@ wordcloud
 datetime
 opencv-python
 pandas
+networkx
+scipy
