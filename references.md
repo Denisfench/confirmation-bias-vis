@@ -13,6 +13,10 @@ NetworkX guides
 
 - https://networkx.guide
 
+NodeX data relabeling
+
+- https://programtalk.com/python-examples/networkx.convert_node_labels_to_integers/
+
 Pandas:
 
 - https://sparkbyexamples.com/pandas/pandas-filter-rows-by-conditions/
