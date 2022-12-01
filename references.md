@@ -13,6 +13,8 @@ NetworkX guides
 
 - https://networkx.guide
 
+- https://trenton3983.github.io/files/projects/2020-05-21_intro_to_network_analysis_in_python/2020-05-21_intro_to_network_analysis_in_python.html
+
 NodeX data relabeling
 
 - https://programtalk.com/python-examples/networkx.convert_node_labels_to_integers/
