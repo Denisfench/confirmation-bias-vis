@@ -87,7 +87,7 @@ Interactive Scatterplot:
 
 - https://plotly.com/python/line-and-scatter/
 
-
+- https://stackabuse.com/plotly-scatter-plot-tutorial-with-examples/
 
 
 
