@@ -1,6 +1,5 @@
 tweepy
 python-dotenv
-vaderSentiment
 nltk
 matplotlib
 wordcloud
@@ -9,3 +8,8 @@ opencv-python
 pandas
 networkx
 scipy
+spacy
+spacy-transformers
+torch
+vader-multi
+spacytextblob

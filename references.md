@@ -40,3 +40,35 @@ NetworkX Visualization:
 Drawing node labels:
 
 - https://networkx.org/documentation/stable/reference/generated/networkx.drawing.nx_pylab.draw_networkx_labels.html
+
+NLP Tools:
+
+- https://spacy.io
+
+- https://spacy.io/usage/models
+
+Sentiment Analysis:
+
+- https://spacy.io/universe/project/spacy-textblob
+
+Sentiment Analysis Russian:
+
+- https://pypi.org/project/dostoevsky/
+
+- https://www.geeksforgeeks.org/twitter-sentiment-analysis-on-russia-ukraine-war-using-python/
+
+Tokenizer 
+
+- https://www.nltk.org/api/nltk.tokenize.html
+
+Tweet Cleaning 
+
+- https://medium.com/analytics-vidhya/sentiment-analysis-on-ellens-degeneres-tweets-using-textblob-ff525ea7c30f
+
+Stop Words Removal 
+
+- https://github.com/skupriienko/Ukrainian-Stopwords
+
+
+
+
