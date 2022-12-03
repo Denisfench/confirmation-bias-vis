@@ -69,6 +69,27 @@ Stop Words Removal
 
 - https://github.com/skupriienko/Ukrainian-Stopwords
 
+Python Interactive Plots:
+
+- https://sites.northwestern.edu/researchcomputing/2022/02/03/what-is-the-best-interactive-plotting-package-in-python/
+
+- https://plotly.com/python/
+
+- https://realpython.com/python-dash/
+
+Interactive Scatterplot Dashboard:
+
+- https://dash.plotly.com/interactive-graphing
+
+- https://subscription.packtpub.com/book/data/9781800568914/8/ch08lvl1sec45/mapping-and-setting-colors-with-scatter-plots
+
+Interactive Scatterplot:
+
+- https://plotly.com/python/line-and-scatter/
+
+
+
+
 
 
 
