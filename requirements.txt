@@ -16,3 +16,4 @@ spacytextblob
 dash
 plotly
 kaleido
+bokeh
