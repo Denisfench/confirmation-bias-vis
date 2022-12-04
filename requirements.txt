@@ -14,3 +14,4 @@ torch
 vader-multi
 spacytextblob
 dash
+plotly
