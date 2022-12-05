@@ -149,3 +149,20 @@ Data Visualization with Bokeh:
 
 - https://melaniewalsh.github.io/Intro-Cultural-Analytics/06-Network-Analysis/02-Making-Network-Viz-with-Bokeh.html
 
+- https://github.com/melaniewalsh/Intro-Cultural-Analytics
+
+- https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789135404/pref
+
+- https://youtu.be/EtvYZPH_YEQ
+
+Bokesh Tooltips:
+
+- https://docs.bokeh.org/en/latest/docs/user_guide/tools.html
+
+Pandas Visualization:
+
+- https://towardsdatascience.com/beautiful-and-easy-plotting-in-python-pandas-bokeh-afa92d792167
+
+
+
+
